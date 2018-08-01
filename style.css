@@ -1,0 +1,83 @@
+a,h2, h3, p{
+	font-family: "Montserrat";
+}
+
+/*section bannerPrincipal*/
+i{
+    font-size:40px;
+    margin-left: 35%;
+    margin-top: 10px;
+}
+#bannerPrincipal{
+    background: #12abbf;
+    color:#fff;
+    padding: 100px 0 120px 0;
+}
+h2, h3 {
+    margin-left:30px;
+}
+#bannerPrincipal .tituloPrincipal{
+    margin-bottom: 40px;
+}
+#bannerPrincipal  h3{
+    font-size: 1.5em;
+    color: #a6d5de;
+}
+#bannerPrincipal  h2 {
+    font-size:3.5em;
+}
+/* fin section bannerPrincipal*/
+
+/*section callToAction*/
+#callToAction{
+    font-size: 2em;
+    text-align: center;
+}
+#callToAction p{
+    background: #27212c;
+    color: #5b5064;
+    padding: 90px 0;
+    margin-bottom: 0;
+}
+#callToAction span{
+    background: #bc3183;
+    color: #fff;
+    padding: 90px 0;
+}
+/* fin section callToAction*/
+
+/*section gallery*/
+#gallery div{
+    height: 280px;
+    background-repeat: no-repeat;
+}
+#gallery .img-one{
+    background-color:rebeccapurple;
+}
+#gallery .img-two{
+    background-image:url(most.png);
+    background-size: cover;
+}
+#gallery .img-three{
+    background-image:url(girl.png);
+    background-size: cover;
+}
+.one{
+    margin-top: 100px;
+}
+/* fin section gallery*/
+
+/*section infoGeneral*/
+#infoGeneral{
+    background: #ebebeb;
+    padding-top: 78px;
+}
+#infoGeneral h2{
+    color: #088ca5;
+    margin-bottom: 38px;
+}
+#infoGeneral p{
+    margin-left:30px;
+}
+/* fin section infoGeneral*/
+
